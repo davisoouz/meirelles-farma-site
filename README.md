@@ -1,4 +1,6 @@
-# Meirelles Farma — site institucional
+# Meirelles Farma - site institucional
+
+![Meirelles Farma](./image/mf/hero-img.png)
 
 Site institucional da [Meirelles Farma](https://meirellesfarma.com.br/) que eu montei na época de **estágio**.
 
